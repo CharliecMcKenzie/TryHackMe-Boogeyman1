@@ -77,3 +77,4 @@ Using the password we previously acquired, I was able to unlock the file and unc
 <img src="https://i.imgur.com/NyqRwZx.png" height="80%" width="80%" alt="card"/>
 
 ## Summary
+The TryHackMe "Boogeyman 1" challenge is a valuable experience for learning cybersecurity due to its well-designed scenario that combines realistic threat detection and analysis tasks. It effectively guides you through the investigation of a phishing attack, requiring the use of various tools like Wireshark, TShark, and PowerShell logging, which are essential in real-world incident response. The challenge not only reinforces fundamental skills, such as packet analysis and payload extraction, but also introduces more advanced concepts like DNS-based exfiltration and command-line forensics. Overall, "Boogeyman 1" offers a comprehensive, hands-on approach that enhances both technical expertise and problem-solving abilities, making it an excellent learning opportunity.
