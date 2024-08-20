@@ -3,6 +3,12 @@
 ## Introduction
 In this room, I will be tasked to analyse the Tactics, Techniques, and Procedures (TTPs) executed by a threat group, from obtaining initial access until achieving its objective. 
 
+Julianne, a finance employee working for Quick Logistics LLC, received a follow-up email regarding an unpaid invoice from their business partner, B Packaging Inc. Unbeknownst to her, the attached document was malicious and compromised her workstation. 
+
+The security team was able to flag the suspicious execution of the attachment, in addition to the phishing reports received from the other finance department employees, making it seem to be a targeted attack on the finance team. Upon checking the latest trends, the initial TTP used for the malicious attachment is attributed to the new threat group named Boogeyman, known for targeting the logistics sector.
+
+I am tasked to analyse and assess the impact of the compromise.
+
 ### Artefacts
 For the investigation, I have been provided with the following artefacts:
 - Copy of the phishing email (dump.eml)
@@ -10,11 +16,6 @@ For the investigation, I have been provided with the following artefacts:
 - Packet capture from the same workstation (capture.pcapng)
 
 ## Walkhrough
-Julianne, a finance employee working for Quick Logistics LLC, received a follow-up email regarding an unpaid invoice from their business partner, B Packaging Inc. Unbeknownst to her, the attached document was malicious and compromised her workstation. 
-
-The security team was able to flag the suspicious execution of the attachment, in addition to the phishing reports received from the other finance department employees, making it seem to be a targeted attack on the finance team. Upon checking the latest trends, the initial TTP used for the malicious attachment is attributed to the new threat group named Boogeyman, known for targeting the logistics sector.
-
-I am tasked to analyse and assess the impact of the compromise.
 
 ### Email Analysis 
 
