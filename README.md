@@ -4,7 +4,7 @@
 In this room, I will be tasked to analyse the Tactics, Techniques, and Procedures (TTPs) executed by a threat group, from obtaining initial access until achieving its objective. 
 
 ### Artefacts
-For the investigation proper, I have been provided with the following artefacts:
+For the investigation, I have been provided with the following artefacts:
 - Copy of the phishing email (dump.eml)
 - Powershell Logs from Julianne's workstation (powershell.json)
 - Packet capture from the same workstation (capture.pcapng)
