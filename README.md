@@ -38,7 +38,7 @@ With the following discoveries, I should now proceed with analysing the PowerShe
 
 Using JQ to print all the ‘ScriptBlockText’ values, I was able to identify several key details related to the attack. These included the domains used by the attacker for file hosting and command-and-control (C2) operations, the name of the enumeration tool downloaded by the attacker, and the specific file accessed using the downloaded ‘sq3.exe’ binary. Additionally, I discovered an extracted KeePass database file (‘protected_data.kdbx’), the use of hex encoding during the exfiltration attempt of the sensitive file, and the ‘nslookup’ tool employed for data exfiltration. 
 <p align="center">
-<img src="https://i.imgur.com/4eXs2qa.png" height="80%" width="80%" alt="json"/>
+<img src="https://i.imgur.com/K859zSx.png" height="80%" width="80%" alt="json"/>
 
 ### Network Traffic Analysis 
 Based on the PowerShell logs investigation, I have seen the full impact of the attack:
